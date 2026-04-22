@@ -35,8 +35,3 @@ https://github.com/user-attachments/assets/38842ec1-023f-4dee-bfce-d6bc5f0e4d54
 
 
 
-
-
-## Author
-
-Your Name
